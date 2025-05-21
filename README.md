@@ -1,6 +1,6 @@
 # foznet
 17-parameter neural net to diagnose misfiring Subaru engines from accelerometer data. <br>
-Based on Shawn Hymel's tinyml anomaly detection tutorial here: https://github.com/ShawnHymel/tinyml-example-anomaly-detection <br>
+Based on Shawn Hymel's TinyML anomaly detection tutorial, as seen here: https://github.com/ShawnHymel/tinyml-example-anomaly-detection <br>
 
 Normal Idle (top) vs Cylinder 2 Misfire (bottom) acceleration data recorded from center of dashboard <br>
 <img width="413" alt="fozData_filt" src="https://github.com/user-attachments/assets/49214c15-f97b-485c-b550-f51541f1bd46" /><br>
